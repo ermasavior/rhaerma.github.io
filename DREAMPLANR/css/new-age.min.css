@@ -243,7 +243,14 @@ section.cta .cta-content{
 }
 section.cta .cta-content h2{
     font-size:50px;
-    max-width:450px;
+    max-width:1000px;
+    margin-top:0;
+    margin-bottom:25px;
+    color:#fff
+}
+section.cta .cta-content h4{
+    font-size:30px;
+    max-width:1000px;
     margin-top:0;
     margin-bottom:25px;
     color:#fff
@@ -290,10 +297,10 @@ section.contact ul.list-social li.social-twitter a:hover{
     background-color:#0d95e8
 }
 section.contact ul.list-social li.social-github a {
-    background-color: #333;
+    background-color: #333333;
 }  
 section.contact ul.list-social li.social-github a:hover {
-    background-color: #320;
+    background-color: #262626;
 }
 section.contact ul.list-social li.social-facebook a{
     background-color:#3b5998

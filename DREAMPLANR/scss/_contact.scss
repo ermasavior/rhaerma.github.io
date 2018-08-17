@@ -36,11 +36,11 @@ section.contact {
                     }
                 }
             }
-            &.social-google-plus {
+            &.social-github {
                 a {
-                    background-color: $brand-google-plus;
+                    background-color: $brand-github;
                     &:hover {
-                        background-color: darken($brand-google-plus, 5%);
+                        background-color: darken($brand-github, 5%);
                     }
                 }
             }
