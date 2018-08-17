@@ -1,8 +1,8 @@
-# DREAMPLANR Static Webpage
+# DREAMPLANR Official Webpage
 
 This repository is a static webpage for DREAMPLANR mobile app elevator pitch.
 
-**Web Page: https://rhaerma.github.io/DREAMPLANR/**
+**Web adress: https://rhaerma.github.io/DREAMPLANR/**
 
 ## Preview
 
